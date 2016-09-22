@@ -1,0 +1,6 @@
+int main()
+{
+    write("Hello, ACPL!\n");
+
+    return 0;
+}
